@@ -42,3 +42,8 @@ AdverseEventPredictor/
 ├─ Dockerfile
 └─ README.md
 ```
+## Potential Insights
+```
+<img width="1200" height="800" alt="adverse_risk_chart" src="https://github.com/user-attachments/assets/2959e6c5-9458-4068-b741-7e144618e9d0" />
+<img width="1200" height="800" alt="adverse_shap_importance" src="https://github.com/user-attachments/assets/abdabf98-3746-4b8a-b148-b5f373474287" />
+
