@@ -42,16 +42,3 @@ AdverseEventPredictor/
 ├─ Dockerfile
 └─ README.md
 ```
-
----
-
-## LinkedIn Post (example)
-🚀 Just released **AdverseEventPredictor** — an open-source demo predicting drug side effects from SMILES strings.  
-🔹 RDKit + Gradient Boosting + SHAP  
-🔹 Streamlit app for interactive predictions  
-🔹 Public dataset: SIDER (side effect resource)  
-⚠️ Demo only — not for clinical use  
-
-Excited to discuss how **AI can transform drug safety**! Repo link below 👇
-
----
