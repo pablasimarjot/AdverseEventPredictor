@@ -1,0 +1,6 @@
+__pycache__/
+artifacts/
+.venv/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/

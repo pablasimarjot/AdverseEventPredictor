@@ -1,0 +1,5 @@
+smiles,side_effect_label
+CCO,0
+CCN,1
+CCCC,0
+CC(=O)O,1
